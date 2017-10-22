@@ -1,5 +1,4 @@
 #include "headers/handler.h"
-#include "headers/httptime.h"
 
 FILE *indexPtr;
 

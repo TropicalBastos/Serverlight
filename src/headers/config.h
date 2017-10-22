@@ -1,3 +1,6 @@
+#ifndef SERVERLIGHT_CONFIG
+#define SERVERLIGHT_CONFIG
+
 #include <fstream>
 #include <ios>
 
@@ -40,3 +43,5 @@ namespace config{
     }
 
 }
+
+#endif
